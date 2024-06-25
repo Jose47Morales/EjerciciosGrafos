@@ -6,9 +6,9 @@ Bienvenido al manual de instalación y uso de la aplicación "Grafos Aplicados R
 
 Antes de proceder con la instalación, asegúrate de cumplir con los siguientes requisitos del sistema:
 
-•	Sistema Operativo: Windows 10 (versión 19041 o superior)
+•	**Sistema Operativo:** Windows 10 (versión 19041 o superior)
 
-•	Hardware: Se recomienda una resolución de pantalla mínima de 1360x768 para una óptima experiencia de usuario.
+•	**Hardware:** Se recomienda una resolución de pantalla mínima de 1360x768 para una óptima experiencia de usuario.
 
 # Instalación
 
