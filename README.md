@@ -21,9 +21,11 @@ Antes de proceder con la instalación, asegúrate de cumplir con los siguientes 
 ![image](https://github.com/Jose47Morales/EjerciciosGrafos/assets/149639682/e24c1021-d43f-46f9-9fbe-fc1965296728)
 
 ![image](https://github.com/Jose47Morales/EjerciciosGrafos/assets/149639682/ab825959-1dc5-48c2-81f5-931f476dfb52)
+
 Se abrirá una ventana para otorgar permisos, selecciona si
 
 ![image](https://github.com/Jose47Morales/EjerciciosGrafos/assets/149639682/870776b3-dfc1-4c34-94b9-c21f5d582859)
+
 Verifica que esté seleccionada la opción de ´*Colocar todos los certificados en el siguiente almacen*´, da click en examinar y selecciona ´*Entidades de certificación raíz de confianza*´ y da click en siguiente y finalizar
 
 •  Una vez finalizada la instalación, cierra las pestañas y ubica el archivo ´*GrafosAplicadosRealidad_1.0.0.0_x64.msix*´ y abrelo, presiona en el botón instalar y cuando termine el proceso, la aplicación ya estará instalada.
