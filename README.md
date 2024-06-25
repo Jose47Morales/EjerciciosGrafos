@@ -1,6 +1,6 @@
 # Introducción
 
-Bienvenido al manual de instalación y uso de la aplicación "Grafos Aplicados Realidad". Este manual está diseñado para ayudarte a instalar la aplicación y entender cómo utilizar sus funcionalidades principales de manera efectiva.
+Bienvenido al manual de instalación y uso de la aplicación "*Grafos Aplicados Realidad*". Este manual está diseñado para ayudarte a instalar la aplicación y entender cómo utilizar sus funcionalidades principales de manera efectiva.
 
 # Requisitos del sistema
 
